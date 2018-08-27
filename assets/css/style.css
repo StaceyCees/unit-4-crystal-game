@@ -1,0 +1,27 @@
+.wins {
+    float: left;
+}
+
+.losses {
+ float: left;
+ clear: right;
+}
+
+
+.jumbotron {
+align-self: center;       
+text-align: center;
+}
+
+.body {
+    padding-bottom: 15px;
+    background-repeat: repeat;
+}
+
+.instructions {
+    background-color: blanchedalmond;
+}
+
+.total {
+    clear: both;
+}
