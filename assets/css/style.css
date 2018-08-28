@@ -1,3 +1,47 @@
+body {
+    padding-bottom: 18px;
+    background-repeat: repeat;
+}
+
+.jumbotron {
+padding: 3px;
+align-self: center;       
+text-align: center;
+}
+
+.instructions {
+    background-color: #f6f6f6;
+    border-color: #B0DFE5;
+    border-style: solid;
+    padding: 7px;
+    margin: 2px 0px 14px 0px;
+    border-radius: 25px;
+}
+
+.purple {
+    float: left;
+}
+
+.opal {
+    float: left;
+}
+
+.rose-quartz {
+    float: left;
+}
+
+.tanzanite {
+    float: left;
+}
+
+.current {
+    margin-top: 7px;
+}
+
+.total {
+    float: left;
+}
+
 .wins {
     float: left;
 }
@@ -5,21 +49,6 @@
 .losses {
  float: left;
  clear: right;
-}
-
-
-.jumbotron {
-align-self: center;       
-text-align: center;
-}
-
-.body {
-    padding-bottom: 15px;
-    background-repeat: repeat;
-}
-
-.instructions {
-    background-color: blanchedalmond;
 }
 
 .total {
